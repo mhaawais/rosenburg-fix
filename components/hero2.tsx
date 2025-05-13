@@ -5,7 +5,7 @@ import { FaMapMarkerAlt, FaHandHoldingUsd, FaStopwatch, FaMedal } from 'react-ic
 
 const ChooseUs = () => {
   return (
-    <div className="bg-[#7ed956] w-full py-20 px-6 lg:px-32 text-center">
+    <div className="bg-[#78486b] w-full py-20 px-6 lg:px-32 text-center">
       <h2 className="text-white text-4xl lg:text-5xl font-bold mb-16">Why You Should Choose Us</h2>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">

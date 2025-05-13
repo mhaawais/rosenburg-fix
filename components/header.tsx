@@ -18,7 +18,7 @@ const Header = () => {
 
   return (
     <div
-      className={`bg-[#7ed956] flex justify-center items-center px-1 sm:px-2 md:px-6 lg:px-14 py-5 sticky top-0 z-50 transition-shadow duration-300 ${
+      className={`bg-[#78486b] flex justify-center items-center px-1 sm:px-2 md:px-6 lg:px-14 py-5 sticky top-0 z-50 transition-shadow duration-300 ${
         scrolled ? 'shadow-md' : ''
       }`}
     >
@@ -30,7 +30,7 @@ const Header = () => {
             className="relative h-full w-[160px] sm:w-[200px] focus:outline-none"
           >
             <Image
-              src="/assets/logo/fix-zone-2.png"
+              src="/assets/logo/Alpha-fix.jpg"
               alt="Fix Zone Logo"
               fill
               className="object-left object-contain"
@@ -41,8 +41,8 @@ const Header = () => {
         </div>
 
         {/* Call Us Button */}
-        <a href="tel: (346) 424-8465" className="no-underline">
-          <button className="bg-[#7ed956] hover:bg-green-600 text-black font-semibold rounded-full px-5 py-2 sm:py-2.5 text-sm sm:text-base flex items-center gap-2 hover:scale-105 transition whitespace-nowrap">
+        <a href="tel:(346) 464-2742" className="no-underline">
+          <button className="bg-[#78486b] hover:bg-pink-900 text-black font-semibold rounded-full px-5 py-2 sm:py-2.5 text-sm sm:text-base flex items-center gap-2 hover:scale-105 transition whitespace-nowrap">
             <FaPhoneAlt className="inline mr-1" />
             Call Us
           </button>

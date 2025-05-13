@@ -5,7 +5,7 @@ import { FaMapMarkerAlt, FaPhoneAlt } from "react-icons/fa";
 
 const Hero3 = () => {
   return (
-    <div className="bg-[#7ed956] w-full px-4 lg:px-20 py-16">
+    <div className="bg-[#78486b] w-full px-4 lg:px-20 py-16">
       {/* Top Headings */}
       <div className="text-center mb-12">
         <h2 className="text-white text-4xl lg:text-5xl font-bold mb-8">We Are Just A Call Away</h2>
@@ -19,7 +19,7 @@ const Hero3 = () => {
         {/* Map Embed */}
         <div className="w-full lg:w-2/3 h-[400px]">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.220063363501!2d-95.69295342577023!3d29.973105021949706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640d5b37f2e0f5d%3A0xede5ea1af0ca3d5f!2s17330%20Spring%20Cypress%20Rd%20%23105%2C%20Cypress%2C%20TX%2077429%2C%20USA!5e0!3m2!1sen!2s!4v1746728637189!5m2!1sen!2s"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2679.170599631722!2d-95.7664605!3d29.5798519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86411f7faf0dd083%3A0xcad9aaf3956bf8a4!2sAlpha%20Fix%20%7C%2015%20Minutes%20Repair!5e1!3m2!1sen!2s!4v1747163263592!5m2!1sen!2s"
             width="100%"
             height="100%"
             style={{ border: 0 }}
@@ -40,7 +40,7 @@ const Hero3 = () => {
             </div>
             <div className="text-left">
               <h3 className="text-lg font-bold text-black">Our Location</h3>
-              <p className="text-gray-700">17330 Spring Cypress Rd #105, Cypress, TX 77429</p>
+              <p className="text-gray-700">1009 Jackson St, Richmond, TX 77469, United States</p>
             </div>
           </div>
 
@@ -51,8 +51,8 @@ const Hero3 = () => {
             </div>
             <div className="text-left">
               <h3 className="text-lg font-bold text-black">Phone Number</h3>
-              <a href="tel:(346) 424-8465" className="text-gray-700">
-               (346) 424-8465
+              <a href="tel:(346) 464-2742" className="text-gray-700">
+                (346) 464-2742
               </a>
             </div>
           </div>

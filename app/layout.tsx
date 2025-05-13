@@ -23,15 +23,15 @@ const faviconVersion = "v1.2"; // Declare it here
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Welcome to Fix Zone",
-    default: "Fix Zone – Fast & Reliable Mobile Repair Experts Near You",
+    template: "%s | Welcome to Alpha Fix",
+    default: "Alpha Fix | Rosenberg – Fast & Reliable Mobile Repair Experts",
   },
-  description: "Looking for quick and trusted phone repairs? At Fix Zone, we fix cracked screens, battery issues, and more—all at unbeatable prices. Walk in today and experience professional service with a personal touch.",
+  description: "Looking for quick and trusted phone repairs? At Alpha Fix, we fix cracked screens, battery issues, and more—all at unbeatable prices. Walk in today and experience professional service with a personal touch.",
   icons: {
     icon: [
       // `/assets/logo/Author-Logo.png?v=${faviconVersion}`,
       // "/favicon.ico",
-      { url: "/assets/logo/fix-zone-2.png" },
+      { url: "/assets/logo/Alpha-fix.jpg" },
     ],
   },
 };
