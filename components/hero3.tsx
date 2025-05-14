@@ -5,7 +5,7 @@ import { FaMapMarkerAlt, FaPhoneAlt } from "react-icons/fa";
 
 const Hero3 = () => {
   return (
-    <div className="bg-[#78486b] w-full px-4 lg:px-20 py-16">
+    <div className="bg-[#b885aa] w-full px-4 lg:px-20 py-16">
       {/* Top Headings */}
       <div className="text-center mb-12">
         <h2 className="text-white text-4xl lg:text-5xl font-bold mb-8">We Are Just A Call Away</h2>

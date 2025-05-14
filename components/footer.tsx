@@ -5,7 +5,7 @@ import { FaPhoneAlt } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-[#78486b] w-full text-center px-4 py-16">
+    <footer className="bg-[#b885aa] w-full text-center px-4 py-16">
       {/* Heading */}
       <h2 className="text-white text-3xl lg:text-4xl font-bold mb-4">Let’s Fix Your Devices</h2>
 
@@ -26,7 +26,7 @@ const Footer = () => {
       {/* Divider & Bottom Section */}
       <div className="text-white text-sm">
         <p className="mb-2">
-          © Copyright <span className="font-bold">FIXZONE</span> All Rights Reserved
+          © Copyright <span className="font-bold">ALPHA-FIX</span> All Rights Reserved
         </p>
         {/* <p className='text-black'>
           <a href="#" className="hover:underline">Privacy Policy</a> | <a href="#" className="hover:underline">Terms & Conditions</a>
