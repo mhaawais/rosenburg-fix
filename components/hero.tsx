@@ -6,7 +6,7 @@ import { FaPhoneAlt, FaMapMarkerAlt } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className="bg-[#ab7a9e] w-full">
+    <div className="bg-[#b37da4] w-full">
       <div className="max-w-7xl mx-auto flex flex-col-reverse lg:flex-row items-center justify-between px-6 sm:px-10 py-12 gap-8">
         
         {/* Left Content */}
